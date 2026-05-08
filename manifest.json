@@ -1,0 +1,16 @@
+{
+  "short_name": "Compras",
+  "name": "Controle de Compras - Fábio",
+  "icons": [
+    {
+      "src": "img/financeiro.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#2e7d32",
+  "background_color": "#ffffff"
+}
